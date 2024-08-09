@@ -1,4 +1,4 @@
-<video autoplay controls height="80%">
+<video autoplay controls height="800">
   <source src="Stop-False-Alarms-with-cameraMonit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
