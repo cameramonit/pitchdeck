@@ -8,6 +8,11 @@
 
 ![Stop-False-Alarms-with-cameraMonit.mp4](Stop-False-Alarms-with-cameraMonit.mp4)
 
-+ [pitchdeck1.md](pitchdeck1.md)
-+ [pitchdeck2.md](pitchdeck2.md)
+## v1
++ [pitchdeck v1 polish](pitchdeck1.md)
++ [pitchdeck v1 english](pitchdeck1_en.md)
+
+## v2  
++ [pitchdeck v2 polish](pitchdeck2.md)
++ [pitchdeck v2 english](pitchdeck2_en.md)
 
