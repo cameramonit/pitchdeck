@@ -36,10 +36,33 @@ Nasza unikalna funkcja interaktywnej komunikacji z systemem pozwala na "rozmowę
 - Oszczędność na kosztach związanych z fałszywymi alarmami i niepotrzebnymi interwencjami
 - Wsparcie prawne przy zgłaszaniu incydentów do służb, straży pożarnej, policji, prokuratury
 
-## Korzyść z zakupu dziś:
-Dla klientów, którzy zdecydują się na zakup już dziś, oferujemy ekskluzywny pakiet "Bezpieczny Start":
-- Bezpłatne szkolenie z obsługi systemu
-- Jednorazowy koszt zamiast miesięcznego abonamentu
-- Darmowe aktualizacje oprogramowania przez pierwszy rok
+## Oferta:
 
+Dziś:
+- Bezpłatne szkolenie z obsługi systemu
+- Jednorazowy koszt wdrożenia zamiast miesięcznego abonamentu
+
+Przez pierwszy rok:
+- Darmowe aktualizacje oprogramowania 
+- Darmowa obsługa prawna incydentów 
+
+
+## Bezpieczny Start
+
+Specjalna oferta "Bezpieczny Start" - tylko dla zdecydowanych klientów!
+
+### Oszczędność pieniędzy:
+- Jednorazowa opłata zamiast comiesięcznych rachunków
+- Brak ukrytych kosztów przez cały pierwszy rok
+
+### Spokój umysłu:
+- Profesjonalne szkolenie, które sprawi, że poczujesz się ekspertem
+- Bezpłatna pomoc prawna w razie nieprzewidzianych sytuacji
+
+### Zawsze aktualna ochrona:
+- Darmowe aktualizacje przez 12 miesięcy, aby Twój system był zawsze najnowocześniejszy i najbezpieczniejszy
+
+Zabezpiecz swoją przyszłość już teraz!
+Ta oferta jest ograniczona czasowo i dostępna tylko dla klientów, którzy podejmą decyzję dzisiaj. 
+Zainwestuj w swoje bezpieczeństwo mądrze i oszczędnie!
 
