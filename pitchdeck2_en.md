@@ -41,5 +41,3 @@ Conversation with monitoring system
 - Free updates and legal support for the first year
 
 Invest in your security wisely and economically, limited time offer!
-
-Translated with DeepL.com (free version)
