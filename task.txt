@@ -1,0 +1,21 @@
+Definicje:
+- Przeedstawiciel:
+- Firma:
+- Oferta:
+  - Nazwa:
+  - Cechy
+  - Korzyści
+  - Wsparcie:
+  - Konkurencja:
+  - Cena:
+  - Propozycja:
+
+Przygotuj pitchdeck z poniższych informacji, podziel na etapy:
+- opisz problem, który ma klient
+- potem przedstaw sie jako przedstawiciel firmy Y, Pan X 
+- przedstaw ofertę firmy Y na rynku w jednym zdaniu
+- Omów w punktach jak działa oferta
+- przedstaw 3 podstawowe korzyści oferty
+- wyróżnij jedną cechę, która jest wyjątkowo w relacji do konkurencji
+- korzysci długofalowe w relacji z firmą Y z tym produktem/usługą
+- korzyść związana z zakupem dzis, dedykowana klientom, którzy zaufają i skorzystają na niższej cenie i wyjątkowej ofercie
