@@ -1,10 +1,10 @@
-## Introduction
+## [cameraMonit](http://cameramonit.com) Surveillance Integration
+
 Can you fully trust a monitoring system that generates lots of notifications, some of which are sometimes false?
 
-## Introducing yourself
+## Introducing 
 
-
-I am a representative of TeleMonit.
+(I am a representative of TeleMonit)
 We offer object detection and video description in already existing monitoring surveillance systems.
 Reducing costs and increasing functionality while complying with data protection regulations.
 
