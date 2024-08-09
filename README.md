@@ -3,8 +3,8 @@
 
 ## Problem klienta:
 Proste i tanie systemy monitoringu generują mnóstwo powiadomień, generują fałszywe alarmy lub pomijają istotne zdarzenia.
-Czy jesteś zmęczony ciągłym stresem związanym z bezpieczeństwem Twojego domu lub firmy?
-Brak możliwości łatwej interakcji i decydowania o tym jakie są nasze priorytety co do otrzymywanej treści sprawia, że nie możemy zaufać technologii i stale musimy ją nadzorować, co kosztuje czas i pieniądze.
+- Czy możesz w pełni zaufać systemowi, który generuje mnóstwo powiadomień, a niektóre z nich bywają fałszywe?
+Brak łatwej interakcji i priorytetyzacji sprawia, że nie możemy zaufać technologii, co wymaga stałego nadzoru i kosztuje czas oraz pieniądze.
 
 ## Przedstawienie się:
 Dzień dobry, nazywam się ..., jestem przedstawicielem firmy TeleMonit
