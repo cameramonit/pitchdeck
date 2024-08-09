@@ -2,11 +2,10 @@
   <source src="Stop-False-Alarms-with-cameraMonit.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+[Stop-False-Alarms-with-cameraMonit.mp4](Stop-False-Alarms-with-cameraMonit.mp4)
 
+# [Pitchdeck cameramonit.com](http://pitchdeck.cameramonit.com)
 
-# [pitchdeck](http://pitchdeck.cameramonit.com)
-
-![Stop-False-Alarms-with-cameraMonit.mp4](Stop-False-Alarms-with-cameraMonit.mp4)
 
 ## v1
 + [pitchdeck v1 polish](pitchdeck1.md)
