@@ -11,17 +11,15 @@ Ograniczając koszty i zwiększając funkcjonalność, przy jednoczesnym przestr
 
 ## Funkcje
 
-- Inteligentna interakcja głosowa i tekstowa
-- Podgląd wydarzeń z ostatnich 24 godzin
+- Ciągła nauka lepszego rozpoznawania obiektów i incydentów
 - Rozmowa audio i video w czasie rzeczywistym
-- Eliminacja fałszywych alarmów
 - Powiadomienia o istotnych zdarzeniach przez popularne komunikatory
 
 ## Korzyści
 
-- Zwiększone bezpieczeństwo
+- Eliminacja fałszywych alarmów
 - Łatwy dostęp do informacji 24/7
-- Pomoc prawna zintegrowana z systemem
+- Pomoc prawna zintegrowana z systemem z teleoperator.app
 
 
 ## Wyjątkowa cecha
