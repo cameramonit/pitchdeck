@@ -11,17 +11,15 @@ Reducing costs and increasing functionality while complying with data protection
 
 ## Features
 
-- Intelligent voice and text interaction
-- Viewing of events over the past 24 hours
+- Continuous learning to better recognize objects and incidents
 - Real-time audio and video conversation
-- Elimination of false alarms
-- Notification of significant events via popular messengers
+- Notifications of important events via popular messengers
 
 ## Benefits
 
-- Enhanced security
+- Elimination of false alarms
 - Easy access to information 24/7
-- Legal assistance integrated into the system
+- Legal assistance integrated with the system from teleoperator.app
 
 
 ## Unique feature
